@@ -1,0 +1,11 @@
+# Root .gitignore for Rwanda Open Data Portal
+/node_modules
+/.next
+/.env*
+/tmp
+/LOG
+*.log
+.DS_Store
+*.pem
+*.crdownload
+.qoder
